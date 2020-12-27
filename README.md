@@ -23,5 +23,5 @@
 
 ## No browser copiar o endereço:
     https://accesstfa.halliburton.com/,DanaInfo=
-## Depois do igual colocar a url que deseja acessar atravez da VNC, exemplo:
+## Depois do igual colocar a url (sem http://) que deseja acessar atravez da VNC, exemplo:
     https://accesstfa.halliburton.com/,DanaInfo=www.google.com
