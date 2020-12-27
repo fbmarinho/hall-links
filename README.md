@@ -19,3 +19,9 @@
 * [Suporte Insite ](https://accesstfa.halliburton.com/SITES/sperryINSITEweb/,DanaInfo=.ahbnomg0y1xxK4uo6u6617CVzA.,SSL+default.aspx)
 
 
+# Acessar qualquer site via VNC :
+
+## No browser copiar o endereço:
+    https://accesstfa.halliburton.com/,DanaInfo=
+## Depois do igual colocar a url que deseja acessar atravez da VNC, exemplo:
+    https://accesstfa.halliburton.com/,DanaInfo=www.google.com
